@@ -1,0 +1,12 @@
+﻿## Interface: 60000
+## X-Min-Interface: 60000
+## Title:|cffffe00a<|r|cffff7d0aDBM|r|cffffe00a>|r |cff69ccf0DBM Voicepack VEM|r
+## Title-zhCN:|cffffe00a<|r|cffff7d0aDBM|r|cffffe00a>|r |cff69ccf0DBM VEM语音包|r
+## Title-zhTW:|cffffe00a<|r|cffff7d0aDBM|r|cffffe00a>|r |cff69ccf0DBM VEM語音包|r
+## DefaultState: enabled
+## RequiredDeps: DBM-Core
+## Author: Chouu, Iceoven
+## Version: 1.0
+## X-DBM-Voice: 1
+## X-DBM-Voice-Name: VEM
+## X-DBM-Voice-ShortName: VEM
