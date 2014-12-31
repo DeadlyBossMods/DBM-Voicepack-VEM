@@ -10,3 +10,4 @@
 ## X-DBM-Voice: 1
 ## X-DBM-Voice-Name: VEM English Female
 ## X-DBM-Voice-ShortName: VEM
+## X-DBM-Voice-Version: 1
