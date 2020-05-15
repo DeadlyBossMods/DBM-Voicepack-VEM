@@ -6,9 +6,9 @@
 ## DefaultState: enabled
 ## RequiredDeps: DBM-Core
 ## Author: Iceoven
-## Version: 10.0.1
+## Version: 11.0.0
 ## X-DBM-Voice: 1
 ## X-DBM-Voice-Name: VEM English Female
 ## X-DBM-Voice-ShortName: VEM
-## X-DBM-Voice-Version: 10
+## X-DBM-Voice-Version: 11
 ## X-DBM-Voice-HasCount: 1
