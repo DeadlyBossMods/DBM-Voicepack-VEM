@@ -10,7 +10,7 @@ Description
 -----------
 Every mod puts careful thought into what the best voice for an alert is that clearly and concisely advices action based on warning. No generic spell name TTS here. DBM voice packs will say something meaningful and not just make more noise for you to ignore.
 
-See [here](https://github.com/DeadlyBossMods/DBM-Voicepack-Demo) as an example on how to create your own voice pack.
+See [here](https://github.com/DeadlyBossMods/DBM-Retail/wiki/ReadMe:-Voice-Pack-Authors) on how to create your own voice pack.
 
 Requirements
 ------------
