@@ -8,7 +8,7 @@
 ## DefaultState: enabled
 ## RequiredDeps: DBM-Core
 ## Author: Iceoven
-## Version: 106ad32
+## Version: @project-version@
 ## X-DBM-Voice: 1
 ## X-DBM-Voice-Name: VEM English Female
 ## X-DBM-Voice-Name-koKR: VEM 영어 여성
