@@ -11,6 +11,7 @@
 ## RequiredDeps: DBM-Core
 ## Author: Iceoven
 ## Version: @project-version@
+## IconTexture: Interface\AddOns\DBM-Core\textures\dbm_airhorn
 ## X-DBM-Voice: 1
 ## X-DBM-Voice-Name: VEM English Female
 ## X-DBM-Voice-Name-ruRU: VEM Английский женский
