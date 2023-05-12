@@ -1,4 +1,4 @@
-## Interface: 100007
+## Interface: 100100
 ## Interface-Classic: 11403
 ## Interface-BCC: 20504
 ## Interface-Wrath: 30401
@@ -11,10 +11,11 @@
 ## RequiredDeps: DBM-Core
 ## Author: Iceoven
 ## Version: @project-version@
+## IconTexture: Interface\AddOns\DBM-Core\textures\dbm_airhorn
 ## X-DBM-Voice: 1
 ## X-DBM-Voice-Name: VEM English Female
 ## X-DBM-Voice-Name-ruRU: VEM Английский женский
 ## X-DBM-Voice-Name-koKR: VEM 영어 여성
 ## X-DBM-Voice-ShortName: VEM
-## X-DBM-Voice-Version: 13
+## X-DBM-Voice-Version: 14
 ## X-DBM-Voice-HasCount: 1
