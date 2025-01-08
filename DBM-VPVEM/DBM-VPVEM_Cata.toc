@@ -1,6 +1,6 @@
 ## Interface: 40401
 ## Category: DBM
-## Category: DBM Media
+
 ## Title:|cffffe00a<|r|cffff7d0aDBM Media|r|cffffe00a>|r |cff308530Voicepack VEM|r
 ## Title-ruRU:|cffffe00a<|r|cffff7d0aDBM Медиа|r|cffffe00a>|r |cff308530Голосовой пакет VEM|r
 ## Title-koKR:|cffffe00a<|r|cffff7d0aDBM Media|r|cffffe00a>|r |cff308530음성팩 VEM|r
