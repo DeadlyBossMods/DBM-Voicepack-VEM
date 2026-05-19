@@ -18,3 +18,4 @@
 ## X-DBM-Voice-ShortName: VEM
 ## X-DBM-Voice-Version: 19
 ## X-DBM-Voice-HasCount: 1
+## X-DBM-Voice-MaxCount: 11
