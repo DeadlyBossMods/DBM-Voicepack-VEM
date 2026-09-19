@@ -1,4 +1,4 @@
-## Interface: 11509, 20506, 30405, 38002, 40402, 50504, 120100, 16001
+## Interface: 11509, 16001, 20506, 30405, 38002, 40402, 50504, 120100
 ## AllowLoadGameType: classic, mainline
 ## Category: DBM
 
