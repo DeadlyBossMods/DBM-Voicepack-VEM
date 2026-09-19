@@ -1,4 +1,5 @@
-## Interface: 50504
+## Interface: 11509, 20506, 30405, 38002, 40402, 50504, 120100, 16001
+## AllowLoadGameType: classic, mainline
 ## Category: DBM
 
 ## Title:|cffffe00a<|r|cffff7d0aDBM Media|r|cffffe00a>|r |cff308530Voicepack VEM|r
@@ -18,3 +19,4 @@
 ## X-DBM-Voice-ShortName: VEM
 ## X-DBM-Voice-Version: 20
 ## X-DBM-Voice-HasCount: 1
+## X-DBM-Voice-MaxCount: 11 [AllowLoadGameType mainline]
